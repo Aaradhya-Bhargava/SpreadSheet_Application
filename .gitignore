@@ -20,4 +20,4 @@ node_modules/
 Thumbs.db
 
 # Database folder (optional)
-database/
+#database/
