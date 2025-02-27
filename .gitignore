@@ -1,0 +1,23 @@
+---
+
+## **📁 3. `.gitignore` (Ignore Unnecessary Files)**
+📍 **Path**: `spreadsheet-app/.gitignore`  
+
+This file **prevents unnecessary files from being committed to Git**.
+
+```gitignore
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Database folder (optional)
+database/
