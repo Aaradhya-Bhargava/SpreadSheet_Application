@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Spreadsheet Web Application
 
 This project is a **Google Sheets-like web application** that allows users to create, edit, and save spreadsheets.
@@ -21,3 +22,6 @@ This project is a **Google Sheets-like web application** that allows users to cr
 ```sh
 git clone https://github.com/your-username/spreadsheet-app.git
 cd spreadsheet-app
+=======
+# SpreadSheet_App
+>>>>>>> ee3bde10062f835e54f639fdaafdc1d1b2de730d
