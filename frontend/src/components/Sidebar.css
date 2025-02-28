@@ -1,0 +1,21 @@
+.sidebar {
+    padding: 15px;
+    background: #f4f4f4;
+    border: 1px solid #ddd;
+    width: 250px;
+    margin-top: 10px;
+  }
+  
+  .sidebar input {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .sidebar button {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 5px;
+    cursor: pointer;
+  }
+  

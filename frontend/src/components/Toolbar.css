@@ -1,0 +1,17 @@
+.toolbar {
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    background: #ddd;
+  }
+  
+  .toolbar button {
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .toolbar input[type="color"] {
+    border: none;
+    cursor: pointer;
+  }
+  
